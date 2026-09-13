@@ -1,9 +1,12 @@
 # Reddit-STEM-Gender-Analysis-14200811
 Code and dataset for MSc dissertation on gendered narratives of STEM fields on Reddit
-The number after each .ipynb file is the order for running.
+The number of each .ipynb file is the order for running.
 Gendered Narratives of STEM Fields on Reddit
 
 This repository contains the Python code used for my MSc dissertation, "Gendered Narratives of STEM Fields on Reddit: A Computational Analysis of Online Discussions."
+
+For storage issues, I only uploaded the final corpus of the cleaned data (final_corpusRCRS_clean.jsonl). The rest of the .csv and .xlsx files are all processed during the coding.
+
 
 # Project Overview
 
@@ -38,3 +41,4 @@ VADER sentiment analysis:
 
 Analysis of gendered narratives related to STEM careers:
 9. RQ3 careers analysis.ipynb
+
